@@ -1,6 +1,6 @@
 # [Tensorflow-Obj-Det-API-Projects](https://github.com/tensorflow/models/tree/master/research/object_detection)
 ![Tensorflow_Object_Detection.png](tf2_obj_det.png)
-This Project folder is dedicated to Tensorflow Object Detection API 2's. Here I have Used :
+This Project folder is dedicated to Tensorflow Object Detection API 2. Here I have Used :
 1. **Tensorflow Object Detection API 2** Models Provided by Google and transfer learning approach to custom train them.
 2. For training images I have used **Google Open Image Datasets**. Link: [Google OIDV4 toolkit](https://github.com/EscVM/OIDv4_ToolKit)
 
