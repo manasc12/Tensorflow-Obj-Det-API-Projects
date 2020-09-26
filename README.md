@@ -1,5 +1,10 @@
-# Tensorflow-Obj-Det-API-Projects
-This Project folder is dedicated to Tensorflow Object Detection API's. Please find the below summary of the projects that I have done:
+# [Tensorflow-Obj-Det-API-Projects](https://github.com/tensorflow/models/tree/master/research/object_detection)
+![Tensorflow_Object_Detection.png](tf2_obj_det.png)
+This Project folder is dedicated to Tensorflow Object Detection API 2's. Here I have Used :
+1. **Tensorflow Object Detection API 2** Models Provided by Google and transfer learning approach to custom train them.
+2. For training images I have used **Google Open Image Datasets**. Link: [Google OIDV4 toolkit](https://github.com/EscVM/OIDv4_ToolKit)
+
+Please find the below summary of the projects that I have done:
 ### 1. Zoo Detector: Design a Custom Object detection Model which can detect various types of animals.
 - Due to the limited availability of computing resources I can only train on 600 images of a total of 3 classes i.e.:
   - Tiger
@@ -20,3 +25,6 @@ This Project folder is dedicated to Tensorflow Object Detection API's. Please fi
   - Then you can run **tensorflow_obj_det/workspace/zoo_detector/programs/validate.ipynb** to see the results.
   - Feel free to explore custom trained Object detection models and Have fun!!
   - ![Tiger.png](tiger.png)
+## References:
+- **Readthedocs Guide:-** https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html
+- **Google Tensorflow Object Detection API-2 Home page:-** https://github.com/tensorflow/models/tree/master/research/object_detection
