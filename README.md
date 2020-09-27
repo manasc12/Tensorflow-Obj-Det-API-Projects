@@ -26,7 +26,15 @@ Please find the below summary of the projects that I have done:
 - **OutPut  Detections** :
   - Then you can run **tensorflow_obj_det/workspace/zoo_detector/programs/validate.ipynb** to see the results.
   - Feel free to explore custom trained Object detection models and Have fun!!
+  - Only one Tiger -
   - ![Tiger.png](tiger.png)
+  - Tiger With a Lion -
+  - ![TigerLion1.png](TigerLion1.png)
+  - ![TigerLion2.png](TigerLion2.png)
+  - Tiger with a Bear
+  - ![TigerBear1.png](TigerBear1.png)
+  - Lots of Bears
+  - ![Bears.png](Bears.png)
 ## References:
 - **Readthedocs Guide:-** https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html
 - **Google Tensorflow Object Detection API-2 Home page:-** https://github.com/tensorflow/models/tree/master/research/object_detection
