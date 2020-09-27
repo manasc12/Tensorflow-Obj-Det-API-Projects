@@ -25,7 +25,8 @@ Please find the below summary of the projects that I have done:
   - But here we will custom train them using the transfer learning approach defined by Google Tensorflow Hub.
 - **OutPut  Detections** :
   - Then you can run **tensorflow_obj_det/workspace/zoo_detector/programs/validate.ipynb** to see the results.
-  - Feel free to explore custom trained Object detection models and Have fun!!
+  - Some of the amazing predictions that I have done are shown below.
+  - Feel free to explore custom trained Object detection models and Have fun!! :blush:
   - **Only one Tiger -**
     - ![Tiger.png](tiger.png)
   - **Tiger With a Lion -**
