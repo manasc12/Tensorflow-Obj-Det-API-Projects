@@ -1,5 +1,4 @@
 # [Tensorflow-Obj-Det-API-Projects](https://github.com/tensorflow/models/tree/master/research/object_detection)
-![Tensorflow_Object_Detection.png](tf2_obj_det.png)
 
 This Project folder is dedicated to Tensorflow Object Detection API 2. 
 Here I have Used :
@@ -37,3 +36,4 @@ Please find the below summary of the projects that I have done:
     - ![TigerBear1.png](TigerBear1.png)
   - **Lots of Bears -**
     - ![Bears.png](Bears.png)
+- Have Fun :) !!!
