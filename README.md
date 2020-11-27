@@ -37,7 +37,3 @@ Please find the below summary of the projects that I have done:
     - ![TigerBear1.png](TigerBear1.png)
   - **Lots of Bears -**
     - ![Bears.png](Bears.png)
-## References:
-- **Readthedocs Guide:-** https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html
-- **Google Tensorflow Object Detection API-2 Home page:-** https://github.com/tensorflow/models/tree/master/research/object_detection
-- **Google OIDV4 toolkit:-** (https://github.com/EscVM/OIDv4_ToolKit)
