@@ -36,4 +36,4 @@ Please find the below summary of the projects that I have done:
     - ![TigerBear1.png](TigerBear1.png)
   - **Lots of Bears -**
     - ![Bears.png](Bears.png)
-- Have Fun :) !!!
+- Thank you :) !!!
